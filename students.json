@@ -1,0 +1,30 @@
+{
+  "students": [
+    {"id": 1, "name": "Alice", "gender": "F", "skills": {"coding": 4, "design": 3}},
+    {"id": 2, "name": "Bob", "gender": "M", "skills": {"coding": 5, "design": 2}},
+    {"id": 3, "name": "Charlie", "gender": "M", "skills": {"coding": 3, "design": 4}},
+    {"id": 4, "name": "Dana", "gender": "F", "skills": {"coding": 2, "design": 5}},
+    {"id": 5, "name": "Eve", "gender": "F", "skills": {"coding": 5, "design": 1}},
+    {"id": 6, "name": "Frank", "gender": "M", "skills": {"coding": 1, "design": 4}},
+    {"id": 7, "name": "Grace", "gender": "F", "skills": {"coding": 3, "design": 3}},
+    {"id": 8, "name": "Hank", "gender": "M", "skills": {"coding": 4, "design": 2}},
+    {"id": 9, "name": "Ivy", "gender": "F", "skills": {"coding": 2, "design": 5}},
+    {"id": 10, "name": "Jack", "gender": "M", "skills": {"coding": 5, "design": 1}},
+    {"id": 11, "name": "Kara", "gender": "F", "skills": {"coding": 1, "design": 4}},
+    {"id": 12, "name": "Leo", "gender": "M", "skills": {"coding": 4, "design": 3}},
+    {"id": 13, "name": "Mia", "gender": "F", "skills": {"coding": 3, "design": 2}},
+    {"id": 14, "name": "Nate", "gender": "M", "skills": {"coding": 2, "design": 5}},
+    {"id": 15, "name": "Olivia", "gender": "F", "skills": {"coding": 5, "design": 1}},
+    {"id": 16, "name": "Paul", "gender": "M", "skills": {"coding": 1, "design": 4}},
+    {"id": 17, "name": "Quinn", "gender": "F", "skills": {"coding": 3, "design": 3}},
+    {"id": 18, "name": "Ryan", "gender": "M", "skills": {"coding": 4, "design": 2}},
+    {"id": 19, "name": "Sara", "gender": "F", "skills": {"coding": 2, "design": 5}},
+    {"id": 20, "name": "Tom", "gender": "M", "skills": {"coding": 5, "design": 1}}
+  ],
+  "constraints": {
+    "team_size": 4,
+    "min_female_per_team": 1,
+    "min_male_per_team": 1,
+    "max_skill_gap": 2
+  }
+}
